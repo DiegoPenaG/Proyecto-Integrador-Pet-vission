@@ -9,8 +9,8 @@
 
 | Repo | Descripción | Link |
 |---|---|---|
-| `vetvission-frontend` | Interfaz web — HTML, CSS, Bootstrap, JS | [→ Ver repo](#) |
-| `vetvission-backend` | API REST — Java, Spring Boot, PostgreSQL | [→ Ver repo](#) |
+| `vetvission-frontend` | Interfaz web — HTML, CSS, Bootstrap, JS | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-FrontEnd) |
+| `vetvission-backend` | API REST — Java, Spring Boot, PostgreSQL | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-BackEnd) |
 
 ---
 
