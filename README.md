@@ -1,4 +1,4 @@
-# 🐾 VetVission
+# 🐾 PetVission
 
 > Plataforma web integral para gestión de clínicas veterinarias con e-commerce incorporado.  
 > Proyecto Integrador — Java Generation Fullstack Developer Bootcamp
@@ -9,8 +9,8 @@
 
 | Repo | Descripción | Link |
 |---|---|---|
-| `vetvission-frontend` | Interfaz web — HTML, CSS, Bootstrap, JS | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-FrontEnd) |
-| `vetvission-backend` | API REST — Java, Spring Boot, PostgreSQL | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-BackEnd) |
+| `petvission-frontend` | Interfaz web — HTML, CSS, Bootstrap, JS | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-FrontEnd) |
+| `petvission-backend` | API REST — Java, Spring Boot, PostgreSQL | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-BackEnd) |
 
 ---
 
@@ -73,7 +73,7 @@ erDiagram
     PEDIDOS ||--o{ PAGOS : "tiene"
 ```
 
-> Diagrama completo disponible en `vetvission-backend/docs/schema.sql`
+> Diagrama completo disponible en `petvission-backend/docs/schema.sql`
 
 ---
 
