@@ -9,7 +9,7 @@
 
 | Repo | Descripción | Link |
 |---|---|---|
-| `petvission-frontend` | Interfaz web — HTML, CSS, Bootstrap, JS | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-FrontEnd) |
+| `petvission-frontend` | Interfaz web — HTML, CSS, Bootstrap, JS | [→ Ver repo](https://github.com/DiegoPenaG/petvission-front) |
 | `petvission-backend` | API REST — Java, Spring Boot, PostgreSQL | [→ Ver repo](https://github.com/DiegoPenaG/Proyecto-Integrador-Vet-vission-BackEnd) |
 
 ---
