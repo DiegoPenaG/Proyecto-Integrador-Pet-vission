@@ -1,3 +1,7 @@
+# ESCUADRON ALPHA MANGO
+
+![EAM](Gemini_Generated_Image_hosw91hosw91hosw.png).
+
 # 🐾 PetVission
 
 > Plataforma web integral para gestión de clínicas veterinarias.  
